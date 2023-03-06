@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emili007
-- 👀 I’m interested on learning new things.
+- 👀 I’m interested at learning new things.
 - 🌱 I’m currently learning how to use Github.
 
 <!---
