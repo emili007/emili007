@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emili007
-- 👀 I’m interested em aprender novas coisas.
-- 🌱 I’m currently learning a mexer no Github.
+- 👀 I’m interested on learning new things.
+- 🌱 I’m currently learning how to use Github.
 
 <!---
 emili007/emili007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
